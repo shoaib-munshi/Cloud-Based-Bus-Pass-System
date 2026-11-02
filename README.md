@@ -1,9 +1,10 @@
 # Cloud-Based-Buss-Pass-System
 ```
-# Cloud-Based Bus Pass System
+
+# Cloud-Based-Bus-Pass-System
 
 ## About
-The Cloud-Based Bus Pass System is a web-based application that allows passengers to conveniently purchase bus passes online. The system provides bus booking, scheduling, and payment facilities through a user-friendly portal.
+A web-based application that allows passengers to conveniently purchase bus passes online. The system provides bus booking, scheduling, and payment facilities through a user-friendly portal.
 
 ## Features
 - User Registration and Login
@@ -18,5 +19,4 @@ The Cloud-Based Bus Pass System is a web-based application that allows passenger
 - JavaScript
 - PHP
 - SCSS
-
 
